@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22791463738",
+    "firebase_url": "https://upworknew-d6615-default-rtdb.firebaseio.com",
+    "project_id": "upworknew-d6615",
+    "storage_bucket": "upworknew-d6615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22791463738:android:a1a31edc95d244c857e603",
+        "android_client_info": {
+          "package_name": "com.sortscript.serfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22791463738-2nhs9cc7gj0hgn5b9l60h7rclctkdqkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAz_z5r3RztmN_6M9Hh_QHKi7e64v_rBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22791463738-2nhs9cc7gj0hgn5b9l60h7rclctkdqkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
